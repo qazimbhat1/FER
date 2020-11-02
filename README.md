@@ -44,7 +44,6 @@ The entire model consists of 14 layers in total. In addition to layers below lis
 ## Training the model ##
 achieving over 96.798% accuracy in 140 epochs through 5 batches.
 
-<img src="./training.PNG" alt="Drawing"/>
 
 ## Prediction ##
 <img src="./Training loss.png" alt="Drawing"/>
