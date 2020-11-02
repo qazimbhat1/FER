@@ -38,11 +38,11 @@ The entire model consists of 14 layers in total. In addition to layers below lis
 11. Fully Connected Layer with 7 units
 
 ### Preprocessing Fer2013 ###
-- dataset is already preprocessed from csv to h5py 
+- Dataset is already preprocessed from csv to h5py 
 
 
 ## Training the model ##
-achieving over 96.798% accuracy in 140 epochs through 5 batches.
+Achieving over 96.798% accuracy using batch size as 100.
 
 
 ## Prediction ##
