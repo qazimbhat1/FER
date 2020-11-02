@@ -47,7 +47,7 @@ achieving over 96.798% accuracy in 140 epochs through 5 batches.
 <img src="./training.PNG" alt="Drawing"/>
 
 ## Prediction ##
-<img src="./prediction1.PNG" alt="Drawing"/>
-<img src="./prediction2.PNG" alt="Drawing"/>
+<img src="./Training loss.PNG" alt="Drawing"/>
+<img src="./Training Acc.PNG" alt="Drawing"/>
 
 
