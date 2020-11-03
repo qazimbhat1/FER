@@ -1,6 +1,6 @@
 # FER
 # Facial-Expression-Recognition.Pytorch
-A CNN based pytorch implementation on facial expression recognition (FER2013), achieving 58.149% (state-of-the-art) in FER2013
+A CNN based pytorch implementation on facial expression recognition (FER2013), on google colab achieving 58.149% in FER2013
 
 
 
@@ -9,6 +9,7 @@ A CNN based pytorch implementation on facial expression recognition (FER2013), a
 - Pytorch >=0.2.0
 - h5py (Preprocessing)
 - sklearn
+- OpenCV
 
 
 ## FER2013 Dataset ##
